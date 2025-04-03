@@ -1,9 +1,4 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+# Introduction
+Hello, my name is Samuel de Waard and I am a university student currently studying a bachelor of Eletrical Engineering at the University of Queensland. This is my blog documenting my learnings in AI from the fastai course which I am learning as a part of the course ELEC4630. 
 
 ![Image of fast.ai logo](images/logo.png)
-
-## This is a title
-
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
-
-I have a *blog*
