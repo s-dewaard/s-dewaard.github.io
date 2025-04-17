@@ -5,6 +5,6 @@
 3. Download images
 4. Remove invalid images
 5. Resize remaining images
-6. Create a Dataloader which is an object which contains a training set and vaildation set of images
+6. Create a *DataLoader* which is an object which contains a training set and vaildation set of images
 7. Train the model
 8. Gather results via graphing outputs or displaying loss metrics
