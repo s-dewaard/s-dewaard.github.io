@@ -4,9 +4,11 @@ Training loss is the error rate on the training data. This is an indication of h
 Validation loss is the error rate in the validation data set. This is also a good indication of how well the model is working.
 ## What is a confusion matrix
 A confusion matrix displays all of the image classes across each axis with one refrencing what the model thought it was and the other what the image actually was. The matrix will show the reader what images the model correctly found and which ones it got wrong and what it believed they were. 
+
 ![Confusion Matrix](../images/Confusion_matrix.png)
 ## What is a t-SNE graph
 A t-SNE graph takes a very high dimensional vector associated with every image and compresses it into two dimensions. It then displays each image (coloured by its class) and plots them on a graph. A good model will have images from each class grouped together and away from other classes. 
+
 ![t-SNE Graph](../images/t-SNE_graph.png)
 ## Some key terms
 **epoch** - This represents one full pass through a data set. 
